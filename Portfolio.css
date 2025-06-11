@@ -19,3 +19,30 @@ header nav{
     justify-content: space-around;
     align-items: center;
 }
+.About{
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 50px;
+    
+}
+.Projects{
+    margin-top: 100px;
+}
+.project_box{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(31, 30, 30);
+    border-radius: 10px;
+
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+}
+.project_box div{
+    margin: auto;
+}
+.project_img{
+    max-width: 200px;
+    max-height: 200px;
+    margin: auto;
+}
